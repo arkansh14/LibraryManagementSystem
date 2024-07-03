@@ -146,7 +146,7 @@ def showchart():
 # Function to show menu
 def showMenu():
     print("-----------------------------")
-    print("       XYZ LIBRARY MGT       ")
+    print("     ARKANSH LIBRARY MGT       ")
     print("-----------------------------")
     print("Press 1 - Add a New Book")
     print("Press 2 - Search for a Book")
